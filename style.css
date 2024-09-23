@@ -1,0 +1,40 @@
+
+.photo_circle{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.body{
+    background-color: #c61017;
+    color: #faddb1;
+}
+.photo{
+    height: 150px;
+    width: 100px;
+}
+
+.second{
+    background-color:#edf2f6;
+    color:#c61017;
+}
+
+.thrid{
+    background-color:#d4e9fa;
+}
+
+.back2{
+    color:#c61017;
+    border-bottom: solid #c61017;
+}
+.back3{
+    background-color: #c61017;
+    color: #faddb1;
+    border:solid rgb(214, 205, 205);
+    border-radius: 8%;
+}
+.ref{
+    color:#faddb1;
+}
+
+
